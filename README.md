@@ -4,7 +4,8 @@
 (像陶崇园事件永久储存一样：https://github.com/lonufate/ArchivesOfTaoChongyuan)
 
 首先推荐一篇文章，便于大家大致了解事情始末。主要是想和大家分享一篇文章《那些珍贵的年轻人》。
-（https://github.com/guodongxiaren/README）
+[https://github.com/GXGMAdhaTTer/ThePreciousYoungMen]
+
 这篇文章与我的观点基本一致，条理清晰，较为客观。珠玉在前，我想自己没必要再评论更多。没时间的朋友看这一篇文章就好！下面是我整理出来的有关沈阳事件和岳昕事件的文章报道，以及岳昕的“言行”，大家感兴趣的自取阅读。
 
 一、	沈阳事件
@@ -12,12 +13,14 @@
 1.检举文章：
 《北京大学李悠悠实名揭发长江学者沈阳教授》：
 http://posts.careerengine.us/p/5ac5b9bb22f72c6dc946f875
+
 《原标题：北京大学95级徐芃、王敖怀念去世二十年的高岩同学，请长江学者沈阳不要再说谎了》http://blog.sciencenet.cn/blog-39946-1107600.html
 《高岩班主任王宇根：我有义务追思她的死因》http://news.ifeng.com/a/20180405/57335251_0.shtml 
 
 2.当年沈阳事件参与者的采访：
 采访当年系主任费振刚、沈阳导师陆俭明（原文已被删除，搬运自豆瓣）：
 https://www.douban.com/doubanapp/dispatch?uri=/group/topic/115129399&dt_platform=wechat_friends&dt_dapp=1
+
 《媒体专访北大处分沈阳时任系主任：从师德讲，这个老师有问题》
 https://www.thepaper.cn/newsDetail_forward_2061993
 
@@ -30,6 +33,7 @@ http://wemedia.ifeng.com/55457420/wemedia.shtml
 
 1.《岳昕：致北京大学师生和北大外语学院的一封公开信》
 https://github.com/sikaozhe1997/Xin-Yue/blob/master/%E5%B2%B3%E6%98%95%EF%BC%9A%E8%87%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B8%88%E7%94%9F%E5%92%8C%E5%8C%97%E5%A4%A7%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC%E5%BC%80%E4%BF%A1?from=timeline&isappinstalled=0
+
 2.北大外语学院老师的声明：
 https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=64&threadid=16393718&from=timeline&isappinstalled=0
 北大外语学院的情况说明：http://sfl.pku.edu.cn/tzgg/64548.htm
@@ -44,6 +48,7 @@ https://www.jiemodui.com/N/93934.html
 
 2015，《北大女生云南支教带黄瓜上性教育课引热议》：
 http://news.163.com/15/1021/08/B6EI8IPC00014AEE.html
+
 2016，《自我审视：一个北大既得利益者的自述》：
 https://mubu.com/doc/2it2htiPsF
 （私心贴两张路人对该文章的评论）
