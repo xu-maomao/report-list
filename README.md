@@ -4,7 +4,7 @@
 (像陶崇园事件永久储存一样：https://github.com/lonufate/ArchivesOfTaoChongyuan)
 
 首先推荐一篇文章，便于大家大致了解事情始末。主要是想和大家分享一篇文章《那些珍贵的年轻人》。
-（https://github.com/moranzcw/ThePreciousYoungMen/blob/master/readme.md）
+（https://github.com/xu-maomao/ThePreciousYoungMen）
 这篇文章与我的观点基本一致，条理清晰，较为客观。珠玉在前，我想自己没必要再评论更多。没时间的朋友看这一篇文章就好！下面是我整理出来的有关沈阳事件和岳昕事件的文章报道，以及岳昕的“言行”，大家感兴趣的自取阅读。
 
 一、	沈阳事件
