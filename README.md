@@ -51,7 +51,7 @@ http://news.163.com/15/1021/08/B6EI8IPC00014AEE.html
 
 2016，《自我审视：一个北大既得利益者的自述》：
 https://mubu.com/doc/2it2htiPsF
-（私心贴两张路人对该文章的评论）
+
   
 
 
